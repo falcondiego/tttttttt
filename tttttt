@@ -1,0 +1,418 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/13_Max_Digital_%28Logo_2015%29.png" ,13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="2" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/13_Max_Digital_%28Logo_2015%29.png" " ,XFN
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="3" ,RT 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="4" ,TN 
+https://stationtv.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="5" ,5 TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="6" ,AIRE DE SANTA FE
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="7" ,CANAL 10
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="8" ,CANAL 12 MADRYN TV
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="9" ,ZONA TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="10" ,TVN TUCUMAN
+https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="11" ,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="12" ,CORRIENTES TV
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="X13" ,CHACO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="14" ,RULAR
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="15" ,TELEFE
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+
+#EXTINF:-1  tvg-chno="X16" ,IP DIGITAL
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1  tvg-chno="17" ,EL TRECE
+https://stationtv.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="18" ,CRONICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+#EXTINF:-1  tvg-chno="19" ,EL NUEVE
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
+#EXTINF:-1  tvg-chno="20" ,C5N
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
+
+#EXTINF:-1  tvg-chno="21" ,CNN EN ESPAÑOL
+http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
+
+#EXTINF:-1  tvg-chno="22" ,TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1  tvg-chno="23" ,GLITZ
+http://tv.teleclub.xyz/stream/Mundo/GLITZ/index.m3u8
+
+#EXTINF:-1  tvg-chno="24" ,AMERICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1  tvg-chno="25" ,A24
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+
+#EXTINF:-1  tvg-chno="26" ,TV PUBLICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+
+#EXTINF:-1  tvg-chno="27" ,ARGENTINISIMA SATELITAL 
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="28" ,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="29" ,CANAL CINEMA+
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="30" ,TUDN
+http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
+
+#EXTINF:-1  tvg-chno="31" ,AFIZZIONADOS
+http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
+
+#EXTINF:-1  tvg-chno="32" ,CLARO SPORT
+http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
+
+#EXTINF:-1  tvg-chno="33" ,WIN SPORT +
+http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
+
+#EXTINF:-1  tvg-chno="34" ,DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="35" ,FOX SPORT PREMIUM
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1  tvg-chno="36" ,TNT SPORTS 
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1  tvg-chno="37" ,ESPN PREMIUM  
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1  tvg-chno="38" ,ESPN 
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1  tvg-chno="39" ,ESPN2 
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1  tvg-chno="40" ,ESPN EXTRA
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
+
+#EXTINF:-1  tvg-chno="41" ,CANAL BEIN SPORT Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_4.m3u8
+
+#EXTINF:-1  tvg-chno="42" ,CLARO SPORT
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1  tvg-chno="43" ,TYC SPORT 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1  tvg-chno="44",LATINO KIS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="45",PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="46" ,BOOMERANG
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+
+#EXTINF:-1  tvg-chno="47" ,CARTOON NETWORK HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1  tvg-chno="48" ,DISNEY CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1  tvg-chno="49" ,UNI TEVE
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="50",WOW TV
+http://tv.teleclub.xyz/stream/Paises/WOW_TV/index.m3u8
+
+#EXTINF:-1  tvg-chno="51",DISNEY JUNIORS
+https://stationtv.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="52" ,TOON CAST
+https://stationtv.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="53" ,NICK
+https://stationtv.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="54" ,NICK JR
+https://stationtv.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="55" ,NICK MUSIC
+http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1  tvg-chno="56" ,SEÑAR URBANA
+https://fullvideo.enlaweb.com.ar/video95/video95/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="57" ,RETRO PLUS TVCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?WebM3UC
+
+#EXTINF:-1  tvg-chno="58" ,ROCK TV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="59" ,CAROLINA TV 2
+https://pantera2-100gb-cl-movistar.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="60" ,CAROLINA TV
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="61" ,EUROPA PLUS
+https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=yF3Y2PEd9bcClZDbHcqdDA&e=1661406148&zoid=sharing
+
+#EXTINF:-1  tvg-chno="62" ,EURODANCE 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1  tvg-chno="63" ,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+
+#EXTINF:-1  tvg-chno="64" ,MTV
+http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
+
+#EXTINF:-1  tvg-chno="65",MTV HIT
+http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8
+
+#EXTINF:-1  tvg-chno="66" ,MTV LIVE
+http://tv.teleclub.xyz/stream/Musica/MTV_LIVE/index.m3u8
+
+#EXTINF:-1  tvg-chno="67" ,MTV CLASIC
+http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1  tvg-chno="68" ,BANDAMAX
+http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8
+
+#EXTINF:-1  tvg-chno="X69" ,CADENA 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="70" ,TOP MUSIC
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="71" ,13 DE SANLUIS
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="72" ,MASCHIC
+http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
+
+#EXTINF:-1  tvg-chno="73" ,LIFETIME
+http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
+
+#EXTINF:-1  tvg-chno="74" ,LAS ESTRELLAS
+http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
+
+#EXTINF:-1  tvg-chno="75" ,RETRO PLUS 1
+http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_1/index.m3u8
+
+#EXTINF:-1  tvg-chno="76" ,RETRO PLUS 2
+http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
+
+#EXTINF:-1  tvg-chno="77" ,E
+http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
+
+#EXTINF:-1  tvg-chno="78" ,TELEMUNDO
+http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
+
+#EXTINF:-1  tvg-chno="79" ,ADN40
+http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
+
+#EXTINF:-1  tvg-chno="80" ,FOOD NETWORK
+http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1  tvg-chno="81" ,DISCOVERY THEATER
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
+
+#EXTINF:-1  tvg-chno="82" ,DISCOVERY WORLD
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1  tvg-chno="83" ,DISCOVERY SCENCES
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
+
+#EXTINF:-1  tvg-chno="84" ,DISCOVERY TURBO
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="85" ,TLC DISCOVERY
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="86" ,DISCOVERY HyH
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
+
+#EXTINF:-1  tvg-chno="87" ,LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="88" ,HGTV
+https://wisp.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="89" ,ID DISCOVERY
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1  tvg-chno="90" ,NATIONAL GEOGRAPHIC
+http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
+
+#EXTINF:-1  tvg-chno="91" ,SMITHSONIAN CHANNEL EEUU
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="92" ,ANIMAL PLANET
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1  tvg-chno="93" ,NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="94" ,EL GOURMET
+http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
+
+#EXTINF:-1  tvg-chno="95" ,TELE MIX
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="96" ,BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="97" ,RETRO PLUS TV 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="98" ,CINE AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="99" ,CANAL 9 LITORAL
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="100" ,DISTRICTO COMEDIA
+http://tv.teleclub.xyz/stream/Cultura/DISTRITO_COMEDIA/index.m3u8
+
+#EXTINF:-1  tvg-chno="101" ,TLNOVELAS
+http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
+
+#EXTINF:-1  tvg-chno="102" ,FX
+https://stationtv.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="103" ,CENTRAL COMEDY
+http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
+
+#EXTINF:-1  tvg-chno="104" ,STAR CHANNEL
+http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
+
+#EXTINF:-1  tvg-chno="105" ,CANAL HBO 
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="106" ,HBO2
+https://stationtv.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="107" ,HBO SIGNATURE
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_SIGNATURE/index.m3u8
+
+#EXTINF:-1  tvg-chno="108" ,HBO XTREME
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_XTREME/index.m3u8
+
+#EXTINF:-1  tvg-chno="109" ,HBO FAMYLY
+https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="110" ,HBO POP
+https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="111" ,#EXTINF:-1 ,AXN
+http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
+
+#EXTINF:-1  tvg-chno="112" ,UNIVERSAL TV
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+
+#EXTINF:-1  tvg-chno="113" ,UNIVERSAL REALITY
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+
+#EXTINF:-1  tvg-chno="114" ,UNIVERSAL CINEMA
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_CINEMA/index.m3u8
+
+#EXTINF:-1  tvg-chno="115" ,GOLDEN
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8
+
+#EXTINF:-1  tvg-chno="116" ,GOLDEN PREMIER
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+
+#EXTINF:-1  tvg-chno="117",GOLDEN PLUS
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8
+
+#EXTINF:-1  tvg-chno="118" ,GOLDEN EDGE
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8
+
+#EXTINF:-1  tvg-chno="119" ,TNT
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+
+#EXTINF:-1  tvg-chno="120" ,TNT SERIES 
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+
+#EXTINF:-1  tvg-chno="121" ,TCM 
+https://stationtv.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="122" ,TBS
+https://stationtv.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="123" ,AECINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
+
+#EXTINF:-1  tvg-chno="124" ,STUDIO UNIVERSAL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1  tvg-chno="125" ,SPACE
+https://stationtv.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="126" ,SONY CHANNEL
+https://wisp.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="127" ,PARAMOUNT NETWORK
+https://stationtv.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="128" ,CINEMAX
+http://tv.teleclub.xyz/stream/Entretenimiento/CINEMAX/index.m3u8
+
+#EXTINF:-1  tvg-chno="129" ,CINECANAL
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1  tvg-chno="130" ,WARNER CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
+#EXTINF:-1  tvg-chno="131" ,DPELICULA
+http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
+
+#EXTINF:-1  tvg-chno="132" ,CROSSING TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="133" ,UCL TELEVISION LATAM ?? URUGUAY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="134" ,13 DE JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="135" ,SUBLIME GRACIA
+https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="136" ,ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="137" ,UNIRIO ??  ARG
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-chno="138" ,BITMIT
+http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
+
+#EXTINF:-1  tvg-chno="139" ,DRAGON BALL 
+http://tv.teleclub.xyz/stream/24_7/DRAGON_BALL/index.m3u8
